@@ -38,6 +38,7 @@ The pipeline is configured using GitHub Actions and runs automatically on every 
 Pipeline steps:
 - Build Docker image
 - Validate project structure
+- Deploy application via Render
 
 ## Project Structure
 
